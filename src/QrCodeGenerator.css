@@ -1,0 +1,27 @@
+.qr-container {
+    
+  width: 300px;
+  margin: auto;
+  padding: 20px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  }
+  
+  .qr-input {
+    background-color: rgb(207, 207, 207);
+    border: none;
+    height: 25px;
+    width: 240px;
+    outline: none;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 15px;
+    font-size: 16px; /* Example of additional style */
+    
+    box-shadow: 0 10px 6px 6px rgba(0, 0, 0, 0.1); 
+  }
+  
